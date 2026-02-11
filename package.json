@@ -5,7 +5,7 @@
     "aws-cdk-template": "bin/aws-cdk-template.js"
   },
   "engines": {
-    "node": ">=24.11.0"
+    "node": ">=24.13.1"
   },
   "packageManager": "pnpm@10.27.0",
   "scripts": {
@@ -33,7 +33,7 @@
     "@eslint/js": "^9.39.2",
     "@ianvs/prettier-plugin-sort-imports": "^4.7.0",
     "@types/jest": "^29.5.14",
-    "@types/node": "^24.10.4",
+    "@types/node": "^24.10.13",
     "aws-cdk": "2.1100.3",
     "dotenv": "^17.2.3",
     "dotenv-cli": "^11.0.0",
